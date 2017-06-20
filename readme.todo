@@ -1,0 +1,25 @@
+@TODO install package: ToDone
+--- Lista de informacion: ` 
+Texto banner: ~3 o 4 slides. Foto del lugar + historia
+Sobre nosotros: breve historia, resumen 150 caracteres. Centro medico, farmacia, laboratorio clinico. + descripciones 60~80 caracteres
+Otros servicios: lista de servicios. Consultorio, odontologia, nutricion, psicologia, ... 
+Nuestro equipo: lista de Drs y especialidad
+Contactenos: informacion de contacto
+`
+--- Lista fotografias: `
+Texto banner: Foto del lugar + historia
+Sobre nosotros: Centro medico, farmacia, laboratorio clinico -> fotos
+Otros servicios: lista de servicios. Consultorio, odontologia, nutricion, psicologia, ... -> logos
+Nuestro equipo: lista de Drs -> fotos retratos
+Contactenos: modificiar fondo
+`
+--- Modificar logos
+--- Imagenes Banner
+
+- Acentos
+á -> &aacute;
+é -> &eacute;
+í -> &iacute;
+ó -> &oacute;
+ú -> &uacute;
+ñ -> &ntilde;
